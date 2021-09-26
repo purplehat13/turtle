@@ -40,4 +40,6 @@ lilac.end_fill()
 
 
 turtle.done()
+![work](https://user-images.githubusercontent.com/89743683/134827791-3f761000-fd1d-4c75-8611-45e95e533567.PNG)
+![Capture](https://user-images.githubusercontent.com/89743683/134827800-d52ed9fe-e4a6-4646-8f54-01e5d3efe5d4.PNG)
 
